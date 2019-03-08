@@ -92,7 +92,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 30px;
-  color: #8476ad;
+  color: #5cacee;
 }
 h1 a {
   color: inherit;
@@ -100,7 +100,7 @@ h1 a {
 
 h2 {
   font-size: 24px;
-  color: #8476ad;
+  color: #5cacee;
 }
 
 h3 {
@@ -696,10 +696,10 @@ code {
 }
 
 .post a {
-  color: #8476ad;
+  color: #5cacee;
 }
 .post a:hover {
-  color: #534776;
+  color: #167bce;
 }
 
 .post-heading a {
@@ -743,9 +743,9 @@ button:focus {
 
 .button.button-primary,
 button.button-primary {
-  color: #8476ad;
+  color: #5cacee;
   background-color: transparent;
-  border-color: #8476ad;
+  border-color: #5cacee;
 }
 
 .button.button-primary:hover,
@@ -753,8 +753,8 @@ button.button-primary:hover,
 .button.button-primary:focus,
 button.button-primary:focus {
   color: #FFF;
-  background-color: #8476ad;
-  border-color: #8476ad;
+  background-color: #5cacee;
+  border-color: #5cacee;
 }
 
 /*
@@ -762,6 +762,10 @@ button.button-primary:focus {
 */
 .intro-header {
   border-top: 5px solid white;
+  background-color: #5cacee;
+  #background-image: url("images/head-bg.jpeg");
+  #background-size: contain;
+  #background-repeat: no-repeat;
 }
 
 .intro-header .post-heading {
@@ -801,11 +805,11 @@ button.button-primary:focus {
     
 */
 .svg-icon a {
-  color: #695a96;
+  color: #2e94e9;
   cursor: pointer;
 }
 .svg-icon a:hover {
-  color: #534776;
+  color: #167bce;
 }
 
 /*
@@ -924,7 +928,7 @@ button.button-primary:focus {
 
 .ch-info p a {
   display: block;
-  color: #8476ad;
+  color: #5cacee;
   font-style: normal;
   font-weight: 700;
   text-transform: uppercase;
@@ -935,7 +939,7 @@ button.button-primary:focus {
 }
 
 .ch-info p a:hover {
-  color: #695a96;
+  color: #2e94e9;
 }
 
 .ch-item:hover .ch-info-front {
