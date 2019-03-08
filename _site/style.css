@@ -763,9 +763,8 @@ button.button-primary:focus {
 .intro-header {
   border-top: 5px solid white;
   background-color: #5cacee;
-  #background-image: url("images/head-bg.jpeg");
-  #background-size: contain;
-  #background-repeat: no-repeat;
+  /*background-image: url("images/head-bg.jpeg");
+  background-size: cover;*/
 }
 
 .intro-header .post-heading {
@@ -903,7 +902,7 @@ button.button-primary:focus {
 }
 
 .ch-img-1 {
-  background-image: url(/images/avatar.jpg);
+  background-image: url(/images/profile.jpeg);
 }
 
 .ch-info h3 {
